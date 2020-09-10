@@ -12,3 +12,15 @@
     color: inherit;
     text-decoration: none;
 }
+
+/*
+  h1, h2, h3, h4, h5, h6,
+.sidebar .author__name, .toc .nav__title, .mfp-counter,
+.taxonomy__index strong, .page__taxonomy-item {
+  font-family: $monospace;
+}
+*/
+.site-title{
+  font-family: "La Belle Aurore", cursive;
+  font-size: larger;
+}
