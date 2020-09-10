@@ -20,7 +20,7 @@
     {% include head/custom.html %}
   </h1>
   <h2>
-    <img src="/assets/image/header.jpg">
+    <img src="/assets/image/header.jpg"/>
   </h2>  
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}
