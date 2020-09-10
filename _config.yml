@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Jisu Rho"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/.jpg"
+  bio              : "대학원생입니다"
   location         : "Seoul"
   email            :
   links:
