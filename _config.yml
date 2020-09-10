@@ -25,7 +25,8 @@ url                      : "https://jisu1013.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jisu1013/jisu1013.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png"
+logo                     : "/assets/images/logo.PNG"
+header                   : "/assets/images/header.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -94,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Jisu Rho"
-  avatar           : "/assets/images/fox.jpg"
+  avatar           : "/assets/images/book.jpg"
   bio              : "대학원생입니다"
   location         : "Seoul"
   email            :
