@@ -25,10 +25,10 @@ url                      : "https://jisu1013.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jisu1013/jisu1013.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"/assets/images/logo.PNG"
+logo                     : "/assets/images/header.jpg"
 #header                   : 
 #                    image: /assets/images/header.jpg
-cover                    : "/assets/images/header.jpg"
+#cover                    : "/assets/images/header.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
