@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 #logo                     : "/assets/images/header.jpg"
 #header                   : 
 #                    image: /assets/images/header.jpg
-#cover                    : "/assets/images/header.jpg"
+cover                    : "/assets/images/header2.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
