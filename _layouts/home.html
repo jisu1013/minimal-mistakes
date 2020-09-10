@@ -43,9 +43,9 @@ layout: archive
         <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
           {% include_cached skip-links.html %}
           {% include_cached browser-upgrade.html %}
-          {% include_cached masthead.html %}
-          
-          <img src="/assets/images/header.jpg" align="center">
+          {% include_cached masthead.html %}         
+          <!--<img src="/assets/images/header.jpg" align="center">-->
+          <div class="header-img"></div>
           <div class="initial-content">
             {{ content }}
           </div>
