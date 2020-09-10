@@ -9,11 +9,19 @@
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <!--
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
-
+-->
+  <h1>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </h1>
+  <h2>
+    <img src="assets/image/header.jpg">
+  </h2>  
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}
     {% include_cached browser-upgrade.html %}
