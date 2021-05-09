@@ -100,7 +100,8 @@ analytics:
 author:
   name             : "Jisu Rho"
   avatar           : "/assets/images/KakaoTalk_20210501_110714834.png"
-  bio              : "모내기 하는 중"
+  bio              : "모내기 하는 중
+  추천시스템/그래프"
   location         : "Seoul"
   email            :
   links:
