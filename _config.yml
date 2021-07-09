@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "Jisu Rho"
   avatar           : "/assets/images/KakaoTalk_20210501_110714834.png"
-  bio              : ["GNN / Recommendation System", "M.S. in CS at UOS"]
+  bio              : "GNN / Recommendation System", "M.S. in CS at UOS"
   location         : "Seoul"
   email            :
   links:
