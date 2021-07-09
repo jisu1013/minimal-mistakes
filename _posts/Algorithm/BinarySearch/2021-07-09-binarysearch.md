@@ -17,7 +17,7 @@ categories: [Algorithm]
  리스트 자료형에서 특정한 값을 가지는 원소의 개수를 세는 count( ) method를 이용할 때도 내부에서는 순차 탐색이 수행
  
 ### Code
- ```python
+```python
 def sequential_search(n, target, array):
 	for i in range(n):
 		if array[i] == target:
