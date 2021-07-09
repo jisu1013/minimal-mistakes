@@ -45,6 +45,7 @@ print(sequential_search(n,target,array))
 
 ### Code
 1. 재귀함수로 구현하는 방법
+
 ```python
 def binary_search(array, target, start, end):
 	if start > end:
@@ -68,6 +69,7 @@ else:
 ```
 
 2. 반복문으로 구현하는 방법
+
 ```python
 def binary_search(array, target, start, end):
 	while start <= end:
