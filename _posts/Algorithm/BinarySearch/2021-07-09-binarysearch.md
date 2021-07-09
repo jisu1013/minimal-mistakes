@@ -1,3 +1,12 @@
+---
+layout: posts
+title: Binary Search
+comments: true
+author_profile: true
+use_math: true
+categories: [Algorithm]
+---
+
 리스트 내에서 데이터를 매우 빠르게 탐색하는 이진 탐색 알고리즘
 ## Sequential Search (순차 탐색)
 가장 기본 탐색 방법
