@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Dijkstra Shortest Path Algorithm
+title: Floyd-Warshall-Algorithm
 comments: true
 tags : [Algorithm,Shortest Path]
 author_profile: true
