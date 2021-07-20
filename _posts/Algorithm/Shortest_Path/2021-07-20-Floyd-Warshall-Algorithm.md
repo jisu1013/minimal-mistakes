@@ -1,3 +1,13 @@
+---
+layout: posts
+title: Dijkstra Shortest Path Algorithm
+comments: true
+tags : [Algorithm,Shortest Path]
+author_profile: true
+use_math: true
+categories: [Algorithm]
+---
+
 모든 지점에서 다른 모든 지접까지의 최단 경로를 모두 구해야 하는 경우에 사용할 수 있는 알고리즘
 
 단계마다 거쳐 가는 노드를 기준으로 알고리즘을 수행. 하지만 매번 방문하지 않은 노드 중에서 최단 거리를 찾을 필요가 없다는 점이 다르다.
